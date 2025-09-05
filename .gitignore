@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Data and model files
+data/movies_clean.csv
+models/similarity.pkl
+
+# VS Code settings
+.vscode/
